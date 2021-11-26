@@ -1,0 +1,15 @@
+.header{
+    position:fixed;
+    background-color:$color-hd;
+    width:44px;
+    height:44px;
+    z-index: 999;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    &__ico-menu{
+        width:16px;
+        height:14px;
+        object-fit: contain;
+    }
+}
