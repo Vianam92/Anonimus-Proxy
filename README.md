@@ -3,7 +3,8 @@
 Este es mi proyecto final del módulo 1 de Adalab, cree una página web desde cero de forma responsive.
 
 ## Features
-
+- CSS3
+- HTML5
 - Started kit/ partial/variables/anidaciones
 - SASS
 - Responsive/media queries
